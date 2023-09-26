@@ -17,7 +17,7 @@ export default function Nav() {
     <div className='fixed top-0 left-0 w-full text-black bg-[#6cd1d8]'>
       <div className='md:flex items-center justify-between md:flex-row py-2 md:px-10 px-7'>
         <div className='cursor-pointer flex items-center'>
-          <h1 className='text-4xl'>JR</h1>
+          <h1 className='text-4xl'><a href="#">JR</a></h1>
         </div>
         <div className='text-3xl absolute right-7 top-2 cursor-pointer md:hidden' onClick={() => setOpen(!open)}>
           <FontAwesomeIcon icon={open ? faX : faBars} />

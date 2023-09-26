@@ -14,7 +14,7 @@ export default function Footer() {
         <ul className='flex items-center'>
             {
                 links.map((link) => 
-                    <li className='text-3xl px-5 py-3'><a href={link.link}><FontAwesomeIcon icon={link.icon} /></a></li>
+                    <li className='text-3xl px-3 py-3'><a href={link.link}><FontAwesomeIcon icon={link.icon} /></a></li>
                 )
             }
         </ul>
