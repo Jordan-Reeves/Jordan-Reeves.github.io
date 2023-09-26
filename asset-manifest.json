@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.6fbd5ad4.css",
-    "main.js": "/static/js/main.f8edd997.js",
+    "main.js": "/static/js/main.45561b8f.js",
     "static/media/AnimeFinder.png": "/static/media/AnimeFinder.3b76a02852b3818ee935.png",
+    "static/media/Good_Pic.JPG": "/static/media/Good_Pic.cc2160b05b1d2763cf2c.JPG",
     "static/media/HorseRun.png": "/static/media/HorseRun.a44779672a965ee407a8.png",
     "static/media/DigitalTheremin.png": "/static/media/DigitalTheremin.7378fa70226e5db2a51d.png",
     "static/media/QuoteCollector.png": "/static/media/QuoteCollector.3db3b111c7b39b5237a5.png",
     "static/media/CensusVisualizationCopy.png": "/static/media/CensusVisualizationCopy.e53dce8045dd0dc7b5b8.png",
-    "static/media/Portfolio-Pic.jpg": "/static/media/Portfolio-Pic.3bc266ab80c02d8456bc.jpg",
     "static/media/Resume-Jordan Reeves-9-26-23.pdf": "/static/media/Resume-Jordan Reeves-9-26-23.95c30884a96c1a992ebf.pdf",
     "index.html": "/index.html",
     "main.6fbd5ad4.css.map": "/static/css/main.6fbd5ad4.css.map",
-    "main.f8edd997.js.map": "/static/js/main.f8edd997.js.map"
+    "main.45561b8f.js.map": "/static/js/main.45561b8f.js.map"
   },
   "entrypoints": [
     "static/css/main.6fbd5ad4.css",
-    "static/js/main.f8edd997.js"
+    "static/js/main.45561b8f.js"
   ]
 }
