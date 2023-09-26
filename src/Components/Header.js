@@ -1,5 +1,5 @@
 import React from 'react';
-import selfImage from "../images/Portfolio-Pic.jpg"
+import selfImage from "../media/Portfolio-Pic.jpg"
 // import 
 
 export default function Header() {
@@ -15,7 +15,7 @@ export default function Header() {
         <img src={selfImage} alt="Jordan Reeves" className='basis-1/2 self-center max-w-[200px] m-auto'/>
         <div id="aboutMe"className='basis-1/2 self-center pl-5'>
           <h3 className='text-3xl text-center pb-5'>About Me</h3>
-          <p id="description">Organized hard working 3rd year New Media Interactive Development major at RIT. Interested in creating an interactive user experience that helps enhance everyday life. Looking for a summer Co-op for May-August 2023.</p>
+          <p id="description" className='text-md'>Organized hard working 4th year New Media Interactive Development major at RIT. Interested in creating an interactive user experience that helps enhance everyday life. Looking for a full time position begining May 2024.</p>
         </div>
       </div>
       <hr></hr>

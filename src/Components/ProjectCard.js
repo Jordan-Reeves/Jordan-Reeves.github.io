@@ -9,7 +9,7 @@ export default function ProjectCard({project, notLast}) {
     
                     <div className="basis-1/2 self-center pl-5">
                         <h3 className="text-3xl text-center pb-5 ">{project.title}</h3>
-                        <p className=""> {project.description}</p>
+                        <p className="text-md"> {project.description}</p>
                     </div>
                 </div>
                 <hr></hr>
@@ -23,7 +23,7 @@ export default function ProjectCard({project, notLast}) {
 
                     <div className="basis-1/2 self-center pl-5">
                         <h3 className="text-3xl text-center pb-5 ">{project.title}</h3>
-                        <p className=""> {project.description}</p>
+                        <p className="text-md"> {project.description}</p>
                     </div>
                 </div>
             </li>

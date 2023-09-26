@@ -1,8 +1,8 @@
-import quoteCollector from "./images/QuoteCollector.png";
-import digitalTheremin from "./images/DigitalTheremin.png";
-import animeFinder from "./images/AnimeFinder.png";
-import horseRun from "./images/HorseRun.png";
-import censusVisualization from "./images/CensusVisualizationCopy.png";
+import quoteCollector from "./media/QuoteCollector.png";
+import digitalTheremin from "./media/DigitalTheremin.png";
+import animeFinder from "./media/AnimeFinder.png";
+import horseRun from "./media/HorseRun.png";
+import censusVisualization from "./media/CensusVisualizationCopy.png";
 
 const projects = [
     {

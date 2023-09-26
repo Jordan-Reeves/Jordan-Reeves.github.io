@@ -36,6 +36,10 @@ h1, h2, h3{
   font-family: 'Abril Fatface', cursive;
 }
 
+ #projects{
+  scroll-margin-top: 70px;
+}
+
 /* footer and navbar link formating */
 a:link{
   color: black;
