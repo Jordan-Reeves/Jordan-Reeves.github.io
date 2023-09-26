@@ -25,7 +25,7 @@ export default function Nav() {
         <ul className={`md:flex md:items-center absolute md:static bg-[#6cd1d8] md:z-auto z-[-1] left-0 w-full md:w-auto md:pl-0 pl-7 transition-all duration-500 ease-in ${open ? 'top-10 opacity-100': 'top-[-200px]'} md:opacity-100 opacity-0`}>
         {
           links.map((link) =>
-            <li key={link.name} className='md:ml-8 text-md md:my-0 my-5'>
+            <li key={link.name} className='md:ml-8 text-md md:my-0 my-5' onClick={() => setOpen(!open)}>
               <a href={link.link}>{link.name}</a>
             </li>
           )
