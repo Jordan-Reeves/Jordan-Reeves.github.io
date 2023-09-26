@@ -1,4 +1,4 @@
-body{
+/* body{
   background-color: black;
   color: white;
 }
@@ -12,7 +12,7 @@ header a{
 }
 h1, h2, h3{
   font-family: 'Abril Fatface', cursive;
-}
+} */
 /* h3{
   @apply text-3xl;
 } */
