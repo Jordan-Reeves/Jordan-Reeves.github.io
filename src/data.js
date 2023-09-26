@@ -31,7 +31,7 @@ const projects = [
     },
     {
         title: "Census Visualization",
-        description: "I made this project my freshman year in New Media Interactive Design and Algorithmic Problem Solving II. The assignment was to create a program that visualizes census data of at least 4 aspects of the U.S. utilizing JSON objects and OOP. I used JavaScript, P5.js, and Photoshop to complete this project. <br><br>Note: You will have to zoom out to around 33% to see the whole screen.",
+        description: "I made this project my freshman year in New Media Interactive Design and Algorithmic Problem Solving II. The assignment was to create a program that visualizes census data of at least 4 aspects of the U.S. utilizing JSON objects and OOP. I used JavaScript, P5.js, and Photoshop to complete this project. Note: You will have to zoom out to around 33% to see the whole screen.",
         link: "https://people.rit.edu/jar5927/CensusVisualization/index.html",
         image: censusVisualization,
     },
