@@ -1,20 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.ab2221bb.css",
-    "main.js": "/static/js/main.35148546.js",
+    "main.js": "/static/js/main.ed0617d8.js",
     "static/media/AnimeFinder.png": "/static/media/AnimeFinder.3b76a02852b3818ee935.png",
     "static/media/Good_Pic.JPG": "/static/media/Good_Pic.cc2160b05b1d2763cf2c.JPG",
     "static/media/HorseRun.png": "/static/media/HorseRun.a44779672a965ee407a8.png",
     "static/media/DigitalTheremin.png": "/static/media/DigitalTheremin.7378fa70226e5db2a51d.png",
+    "static/media/EndangeredSpeciesViz.png": "/static/media/EndangeredSpeciesViz.83d276cbc0c5ea586ebf.png",
     "static/media/QuoteCollector.png": "/static/media/QuoteCollector.3db3b111c7b39b5237a5.png",
     "static/media/CensusVisualizationCopy.png": "/static/media/CensusVisualizationCopy.e53dce8045dd0dc7b5b8.png",
-    "static/media/Resume-Jordan Reeves-9-26-23.pdf": "/static/media/Resume-Jordan Reeves-9-26-23.95c30884a96c1a992ebf.pdf",
+    "static/media/UndrawingMachine.png": "/static/media/UndrawingMachine.15b3607367fdb839480a.png",
+    "static/media/Resume-Jordan-Reeves-3-4-24.pdf": "/static/media/Resume-Jordan-Reeves-3-4-24.390cdd41eefc97c3c888.pdf",
     "index.html": "/index.html",
     "main.ab2221bb.css.map": "/static/css/main.ab2221bb.css.map",
-    "main.35148546.js.map": "/static/js/main.35148546.js.map"
+    "main.ed0617d8.js.map": "/static/js/main.ed0617d8.js.map"
   },
   "entrypoints": [
     "static/css/main.ab2221bb.css",
-    "static/js/main.35148546.js"
+    "static/js/main.ed0617d8.js"
   ]
 }
