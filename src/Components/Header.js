@@ -1,6 +1,5 @@
 import React from 'react';
 import selfImage from "../media/Good_Pic.JPG"
-// import 
 
 export default function Header() {
   return (
@@ -15,7 +14,7 @@ export default function Header() {
         <img src={selfImage} alt="Jordan Reeves" className='basis-1/2 self-center max-w-[200px] max-h-[300px] mx-auto w-auto h-auto'/>
         <div id="aboutMe"className='basis-1/2 self-center pl-5'>
           <h3 className='text-3xl text-center pb-5'>About Me</h3>
-          <p id="description" className='text-md'>Organized hard working 4th year New Media Interactive Development major at RIT. Interested in creating an interactive user experience that helps enhance everyday life. Looking for a full time position begining May 2024.</p>
+          <p id="description" className='text-md'>A diligent and organized 4th year student at RIT looking to begin full time employment starting May/June 2024. Proficient in an array of programming languages including JavaScript, HTML, CSS, C#, Unity, Node, and React. Possesses a keen understanding of user data visualization, experience design, application prototyping, user flows, user research, and user testing. Interested in creating interactive user experiences that help enhance everyday life.</p>
         </div>
       </div>
       <hr></hr>

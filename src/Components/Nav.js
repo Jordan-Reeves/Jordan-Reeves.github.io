@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faX ,faBars } from '@fortawesome/free-solid-svg-icons'
-import resume from "../media/Resume-Jordan Reeves-9-26-23.pdf"
+import resume from "../media/Resume-Jordan-Reeves-3-4-24.pdf"
 
 export default function Nav() {
   const links = [
