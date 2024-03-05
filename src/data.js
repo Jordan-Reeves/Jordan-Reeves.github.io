@@ -9,7 +9,7 @@ import undrawing from "./media/UndrawingMachine.png";
 const projects = [
     {
         title: "Undrawing Machine",
-        description: "I created this project my Senior year in my current topics class. The assignment was to create a program that expanded, augmented, and questions the act of drawing. I created a program that allows the user to draw custom phyllotaxis with their voice. The color and size of the dots were determined by the pitch and volume of the users' voice. For this project I utilized p5.js, HTML, CSS, JavaScript, and the p5.sound library. Fun fact: This phyllotaxis was created by singing 'Amazing Grace'.",
+        description: "I created this project my Senior year in my current topics class. The assignment was to create a program that expanded, augmented, and questions the act of drawing. I decided to create a program that allows the user to draw custom phyllotaxis with their voice. The color and size of the dots were determined by the pitch and volume of the users' voice. For this project I utilized p5.js, HTML, CSS, JavaScript, and the p5.sound library. Fun fact: This phyllotaxis was created by singing 'Amazing Grace'.",
         
         link: "https://jordanreeves480.wordpress.com/2023/10/07/jordan-reeves-deliverables-4b/",
         image: undrawing,
