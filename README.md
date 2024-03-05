@@ -5,7 +5,7 @@ Welcome to my portfolio! This README provides an overview of the content and str
 If you just came for the portfolio link, feel free to head [here](https://jordan-reeves.github.io/) and skip this whole README!
 
 ## About Me:
-Hi my name is Jordan Reeves and I am a diligent and organized 4th year New Media Interactive Development major at RIT. I'm passionate about creating interactive user experiences that help enhance everyday life. I have a background in front end development and user experience design. Through my portfolio, I aim to showcase my skills, experiences, and projects to potential employers, collaborators, and anyone interested in learning more about my work.
+Hi my name's Jordan Reeves and I am a diligent and organized 4th year New Media Interactive Development major at RIT. I'm passionate about creating interactive user experiences that help enhance everyday life. I have a background in front end development and user experience design. Through my portfolio, I aim to showcase my skills, experiences, and projects to potential employers, collaborators, and anyone interested in learning more about my work.
 
 ## Navigation:
 **About:** In the About section, you can find more detailed information about my background, education, skills, and professional experience.
