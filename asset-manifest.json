@@ -1,22 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.ab2221bb.css",
-    "main.js": "/static/js/main.ed0617d8.js",
-    "static/media/AnimeFinder.png": "/static/media/AnimeFinder.3b76a02852b3818ee935.png",
-    "static/media/Good_Pic.JPG": "/static/media/Good_Pic.cc2160b05b1d2763cf2c.JPG",
-    "static/media/HorseRun.png": "/static/media/HorseRun.a44779672a965ee407a8.png",
+    "main.css": "/static/css/main.daf37e6f.css",
+    "main.js": "/static/js/main.6fb14898.js",
+    "static/media/IMG_9534.jpg": "/static/media/IMG_9534.0919a58799fe34d9e441.jpg",
     "static/media/DigitalTheremin.png": "/static/media/DigitalTheremin.7378fa70226e5db2a51d.png",
     "static/media/EndangeredSpeciesViz.png": "/static/media/EndangeredSpeciesViz.83d276cbc0c5ea586ebf.png",
     "static/media/QuoteCollector.png": "/static/media/QuoteCollector.3db3b111c7b39b5237a5.png",
-    "static/media/CensusVisualizationCopy.png": "/static/media/CensusVisualizationCopy.e53dce8045dd0dc7b5b8.png",
+    "static/media/Capstone-table.png": "/static/media/Capstone-table.88b2dbfbe3afd74c8562.png",
     "static/media/UndrawingMachine.png": "/static/media/UndrawingMachine.15b3607367fdb839480a.png",
-    "static/media/Resume-Jordan-Reeves-3-4-24.pdf": "/static/media/Resume-Jordan-Reeves-3-4-24.390cdd41eefc97c3c888.pdf",
+    "static/media/Resume-Jordan Reeves-10-7-24.pdf": "/static/media/Resume-Jordan Reeves-10-7-24.126510b4fde93b6ccd4f.pdf",
     "index.html": "/index.html",
-    "main.ab2221bb.css.map": "/static/css/main.ab2221bb.css.map",
-    "main.ed0617d8.js.map": "/static/js/main.ed0617d8.js.map"
+    "main.daf37e6f.css.map": "/static/css/main.daf37e6f.css.map",
+    "main.6fb14898.js.map": "/static/js/main.6fb14898.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab2221bb.css",
-    "static/js/main.ed0617d8.js"
+    "static/css/main.daf37e6f.css",
+    "static/js/main.6fb14898.js"
   ]
 }
