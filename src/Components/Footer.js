@@ -7,7 +7,7 @@ export default function Footer() {
     const links = [
         {icon: faLinkedinIn, link: "https://www.linkedin.com/in/jordan-reeves-9bb0411b5/"},
         {icon: faGithub, link: "https://github.com/Jordan-Reeves"},
-        {icon: faEnvelope, link: "mailto:jar5927@rit.edu"},
+        {icon: faEnvelope, link: "mailto:reevesjo.2020@gmail.com"},
     ];
   return (
     <footer id="contact" className='w-full text-black bg-[#6cd1d8] flex flex-col items-center'>
@@ -18,7 +18,7 @@ export default function Footer() {
                 )
             }
         </ul>
-        <p>@2023 Jordan Reeves</p>
+        <p>@2024 Jordan Reeves</p>
     </footer>
   )
 }

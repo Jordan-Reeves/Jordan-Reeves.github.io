@@ -5,7 +5,7 @@ Welcome to my portfolio! This README provides an overview of the content and str
 If you just came for the portfolio link, feel free to head [here](https://jordan-reeves.github.io/) and skip this whole README!
 
 ## About Me:
-Hello, I'm Jordan Reeves! I graduated Summa Cum Laude from Rochester Institute of Technology with a major in New Media Interactive Development. I'm passionate about creating interactive user experiences that enhance everyday life and engage users in a meaningful way. I have a strong foundation in front end development and user experience design. My portfolio showcases my skills, experiences, and projects aimed at attracting potential employers, collaborators, and anyone interested in exploring my work.
+Hello, I'm Jordan Reeves! I graduated *summa cum laude* from Rochester Institute of Technology with a major in New Media Interactive Development. I'm passionate about creating interactive user experiences that enhance everyday life and engage users in a meaningful way. I have a strong foundation in front end development and user experience design. My portfolio showcases my skills, experiences, and projects aimed at attracting potential employers, collaborators, and anyone interested in exploring my work.
 
 ## Navigation:
 **About:** In the About section, you can find more detailed information about my background, education, skills, and professional experience.

@@ -1,11 +1,13 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React, { useState } from 'react'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faX ,faBars } from '@fortawesome/free-solid-svg-icons'
-import resume from "../media/Resume-Jordan-Reeves-3-4-24.pdf"
+import resume from "../media/Resume-Jordan Reeves-10-7-24.pdf"
 
 export default function Nav() {
   const links = [
     {name: "About", link: "#aboutMe"},
+    {name: "Skills", link: "#skills"},
     {name: "Projects", link: "#projects"},
     {name: "Resume", link: resume},
     {name: "Contact", link: "#contact"},

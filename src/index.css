@@ -28,15 +28,11 @@ main{
   font-family: Helvetica, Verdana, Geneva, Tahoma, sans-serif;
 }
 
-/* header a{
-  text-decoration: none;
-} */
-
 h1, h2, h3{
   font-family: 'Abril Fatface', cursive;
 }
 
- #projects{
+ #projects, #skills{
   scroll-margin-top: 70px;
 }
 

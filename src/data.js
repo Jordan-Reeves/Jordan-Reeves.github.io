@@ -1,16 +1,21 @@
 import quoteCollector from "./media/QuoteCollector.png";
 import digitalTheremin from "./media/DigitalTheremin.png";
-import animeFinder from "./media/AnimeFinder.png";
-import horseRun from "./media/HorseRun.png";
-import censusVisualization from "./media/CensusVisualizationCopy.png";
+// import animeFinder from "./media/AnimeFinder.png";
+// import horseRun from "./media/HorseRun.png";
+// import censusVisualization from "./media/CensusVisualizationCopy.png";
 import endangeredSpecies from "./media/EndangeredSpeciesViz.png";
 import undrawing from "./media/UndrawingMachine.png";
-
+import capstone from "./media/Capstone-table.png";
 const projects = [
+    {
+        title: "Senior Capstone - Cocoon",
+        description: "Cocoon was an interactive immersive experience that allowed user to interact with and control a projected scene. The project utilized a combination of hardware and software including Arduinos, Unity, and 3D printing. I worked with 7 designers and 2 other developers to create this project and get it ready to showcase at the Imagine RIT festival. My role on the team was to create the control panel users would interact with. This control panel used over 4 types of sensors, 3D printed controls, and Ardity to communicate with Unity.", 
+        link: "https://cocoon-2024.framer.website/",
+        image: capstone,
+    },
     {
         title: "Undrawing Machine",
         description: "I created this project my Senior year in my current topics class. The assignment was to create a program that expanded, augmented, and questions the act of drawing. I created a program that allows the user to draw custom phyllotaxis with their voice. The color and size of the dots were determined by the pitch and volume of the users' voice. For this project I utilized p5.js, HTML, CSS, JavaScript, and the p5.sound library. Fun fact: This phyllotaxis was created by singing 'Amazing Grace'.",
-        
         link: "https://jordanreeves480.wordpress.com/2023/10/07/jordan-reeves-deliverables-4b/",
         image: undrawing,
     },
