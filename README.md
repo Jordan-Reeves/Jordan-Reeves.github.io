@@ -5,7 +5,7 @@ Welcome to my portfolio! This README provides an overview of the content and str
 If you just came for the portfolio link, feel free to head [here](https://jordan-reeves.github.io/) and skip this whole README!
 
 ## About Me:
-Hi my name is Jordan Reeves and I am a diligent and organized 4th year New Media Interactive Development major at RIT. I'm passionate about creating interactive user experiences that help enhance everyday life. I have a background in front end development and user experience design. Through my portfolio, I aim to showcase my skills, experiences, and projects to potential employers, collaborators, and anyone interested in learning more about my work.
+Hello, I'm Jordan Reeves! I graduated Summa Cum Laude from Rochester Institute of Technology with a major in New Media Interactive Development. I'm passionate about creating interactive user experiences that enhance everyday life and engage users in a meaningful way. I have a strong foundation in front end development and user experience design. My portfolio showcases my skills, experiences, and projects aimed at attracting potential employers, collaborators, and anyone interested in exploring my work.
 
 ## Navigation:
 **About:** In the About section, you can find more detailed information about my background, education, skills, and professional experience.
@@ -25,7 +25,7 @@ Hi my name is Jordan Reeves and I am a diligent and organized 4th year New Media
 
 **Project Showcase:** The Projects section provides detailed insights into some of my favorite projects, allowing visitors to explore my work and technical capabilities.
 
-**Backend:** My website was created using react and hosted here on GitHub pages. 
+**Backend:** My website was created using React and hosted here on GitHub pages. 
 
 **Database:** When creating this website I wanted to ensure that my portfolio would be able to grow along with my career so I implimented a component based structure along with a data array that allows me to easily add, remove, and update my site. 
 
